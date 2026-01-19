@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "T-Shirt",
+      "price": 499,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "title": "T-Shirt",
+      "price": 499,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "Shoes",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
