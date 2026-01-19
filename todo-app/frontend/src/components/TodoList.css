@@ -1,0 +1,13 @@
+.todo-list {
+  margin: 20px 0;
+  text-align: left;
+}
+
+.todo-list h2 {
+  margin-bottom: 10px;
+}
+
+.todo-list ul {
+  list-style: none;
+  padding: 0;
+}
